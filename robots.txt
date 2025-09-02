@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alaricset.com/sitemap.xml
